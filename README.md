@@ -18,7 +18,7 @@ Feedforward neural network is used for this regression problem. The data been st
 
 ![Model Structure](img/model.png)
 
-The model is trained with a batch size of 8 and for 20 epochs. The MAE achieved 409.2519. The training and the validation loss were 654319.6875 and 1176431.6250 respectively. The two figures below show the graph of the training vs validation loss.
+The model is trained with a batch size of 8 and for 20 epochs. The MAE achieved 409.2519. The training and the validation loss were 654319.6875 and 1176431.6250 respectively. The two figures below show the graph of the training and validation loss and training and validation MAE.
 
 ![Loss Graph](img/training_and_validation_loss.png)![MAE Graph](img/training_and_validation_MAE.png)
 
