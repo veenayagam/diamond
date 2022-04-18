@@ -11,10 +11,10 @@ Kaggle link: https://www.kaggle.com/datasets/shivam2503/diamonds
 
 ## 3. Methodology
 ### 3.1. Data Pipeline
-The data is first loaded, visualize and pre-processed by checking null values and remove unwanted features. Then data perform numerical encoding for features because its rank based. Finally, the data split into train size of 80% and test size of 20% respectively.
+The data is first loaded, visualize, and pre-processed by checking null values and removing unwanted features. Then data perform numerical encoding for features because its rank based. Finally, the data split into train size of 80% and test size of 20% respectively.
 
 ### 3.2. Model Pipeline
-Feedforward neural network is used for this regression problem. The data been standardlize during this phase. The figure below shows the structure of the model.
+Feedforward neural network is used for this regression problem. The data have been standardized during this phase. The figure below shows the structure of the model.
 
 ![Model Structure](img/model.png)
 
