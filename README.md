@@ -4,9 +4,9 @@
 This project analyses diamonds by their cut, color, clarity, price, and other attributes and predict their price using feedforward neural network.
 
 ## 2. Code and Resources Used
-This project is created using Google Colab as the main IDE.
-Main Packages: Pandas, Scikit-learn and TensorFlow Keras.
-This dataset has been taken from Kaggle.
+*	This project is created using Google Colab as the main IDE.
+*	Main Packages: Pandas, Scikit-learn and TensorFlow Keras.
+*	This dataset has been taken from Kaggle.</br>
 Kaggle link: https://www.kaggle.com/datasets/shivam2503/diamonds
 
 ## 3. Methodology
