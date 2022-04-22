@@ -1,7 +1,7 @@
 # Diamonds
 
 ## 1. Summary
-This project analyses diamonds by their cut, color, clarity, price, and other attributes and predict their price using feedforward neural network.
+Analyses diamond price by their cut, color, clarity, and other attributes and predict their price using a feedforward neural network.
 
 ## 2. Code and Resources Used
 *	This project is created using Google Colab as the main IDE.
